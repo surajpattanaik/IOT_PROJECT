@@ -1,4 +1,4 @@
-# IOT_PROJECTS
+# IOT_PROJECT
 
 1)SMART_ENVIRONMENT_MONITORING_SYSTEM:-
 ------------------------------------
