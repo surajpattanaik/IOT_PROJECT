@@ -1,6 +1,4 @@
-# IOT_PROJECT
-
-1)SMART_ENVIRONMENT_MONITORING_SYSTEM:-
+SMART_ENVIRONMENT_MONITORING_SYSTEM:-
 ------------------------------------
 This project  ‘IOT based Smart Environment Monitoring system’  is a very innovative system which will help to keep tracking the temperature
 and humidity of Environment and show real time fire alerts.
