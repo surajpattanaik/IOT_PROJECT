@@ -22,6 +22,10 @@ ESP8266 BORAD DRIVER,
 ESP8266 LIBRARY ,
 EMBEDDED C  
 ------
+FUTURE SCOPE
+-------------
+Fire catch can be control.For safety and environment judgment it can be upgrade into higher applicable device.
+
 CONCLUSION:
 We designed both the software and hardware
 required for this project and tested its working
