@@ -24,7 +24,8 @@ EMBEDDED C
 ------
 FUTURE SCOPE
 -------------
-Fire catch can be control.For safety and environment judgment it can be upgrade into higher applicable device.
+Fire catch can be controlled.
+For safety and environment judgment it can be upgraded into a higher applicable device.
 
 CONCLUSION:
 We designed both the software and hardware
