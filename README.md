@@ -1,6 +1,6 @@
 # Smart Enviroment Monitoring System
 ### What is this project about?
-#### This is an IOT based smart Environment Monitoring System that can track real time temperature/humidity and forward it our mobile application through blynk server, besides it can sense existing flame and activates the fire alarm meanwhile keeps sending us realtime fire alerts through email and notification until the blaze eliminates.
+#### This is an IOT based smart Environment Monitoring System that can track real time temperature/humidity and forward it to our mobile application through blynk server, besides it can sense existing flame and activates the fire alarm meanwhile keeps sending us realtime fire alerts through email and notification until the blaze eliminates.
 ### Objective
 #### The main objective of this project is to develop a smart environment monitoring system using a Node MCU board with Internet being remotely controlled by any Android OS smart phone. As technology is advancing so houses are also getting smarter.. Along with this we can get immediate notification if our environment catches fire. Humidity and temperature of our environment can be seen in our mobile phone through IOT.   
 ### Design
